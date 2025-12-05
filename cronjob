@@ -1,0 +1,1 @@
+* * * * * /usr/local/bin/python /app/scripts/my_task.py >> /var/log/cron.log 2>&1
